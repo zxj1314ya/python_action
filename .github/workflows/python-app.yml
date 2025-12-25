@@ -46,6 +46,5 @@ jobs:
         with:
           python_ver: '3.12'
           spec: 'main.py'
-          requirements: 'src/requirements.txt'
           upload_exe_with_name: 'zxj_package'
           options: --onefile
